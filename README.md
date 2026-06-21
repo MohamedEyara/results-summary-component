@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Results Summary Component
 
 A responsive **Results Summary Component** built with **HTML5** and **CSS3** as part of a Frontend Mentor challenge.
@@ -37,7 +36,3 @@ This project is based on a Frontend Mentor challenge to practice responsive layo
 ## 👨‍💻 Author
 
 **Mohamed**
-=======
-# results-summary-component
-A responsive Results Summary Component built with HTML5 and CSS3 as part of a Frontend Mentor challenge. The project focuses on semantic HTML, Flexbox layout, modern CSS styling, gradients, and a fully responsive design for all screen sizes.
->>>>>>> cbed65fd9f5d3b740fd6a40bcf7ba384ed10816b
